@@ -1,0 +1,20 @@
+﻿@page
+@using library.Pages;
+@using static System.Reflection.Metadata.BlobBuilder;
+@model booksModel
+
+<h1>Books Library</h1>
+<ul>
+    @foreach (var book in Model.books)
+    {
+      
+        <li>
+            <h3>@book.Title</h3>
+            <p>Author: @book.Author</p>
+            <p>Genre: @book.Genre</p>
+            <p>Content Type: @book.ContentType</p>
+            <p>Publish Date: @book.PublishDate</p>
+            <img src="@book.ImageLink" alt="Book Image" style="max-width: 200px;" />
+        </li>
+    }
+</ul>

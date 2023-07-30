@@ -1,0 +1,50 @@
+﻿[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "contentType": "Paperback",
+    "publishDate": "July 11, 1960",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/71WQx7qyQrL.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "contentType": "Hardcover",
+    "publishDate": "June 8, 1949",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41-IcDWi5dL.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "contentType": "Paperback",
+    "publishDate": "April 10, 1925",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51bWyydbH2L.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "contentType": "Hardcover",
+    "publishDate": "June 26, 1997",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51QLkSA2u7L.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-Age",
+    "contentType": "Paperback",
+    "publishDate": "July 16, 1951",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51IK5zz4E2L.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "contentType": "Hardcover",
+    "publishDate": "January 28, 1813",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51j8w60iHfL.jpg"
+  }
+]
